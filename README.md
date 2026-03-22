@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahipal Kumawat</h1>
+<h1 align="center">Hi 👋, I'm Mahipal</h1>
 <h3 align="center">Software Engineer | IIT Mandi</h3>
 
 <p align="center">
